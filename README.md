@@ -61,10 +61,6 @@ A modern Next.js architecture with the latest tech stacks as of 2025. This proje
 │   ├── layouts/          # Shared layouts for pages
 │   └── pages/            # Complete page components with logic
 ├── public/               # Static assets (e.g., images, fonts)
-├── .github/              # GitHub Actions and issue templates
-├── .storybook/           # Storybook configuration
-├── .husky/               # Git hooks for pre-commit checks
-├── .vscode/              # Editor settings for VS Code
 ├── next.config.js        # Next.js configuration
 ├── tailwind.config.js    # Tailwind CSS configuration
 ├── package.json          # Project dependencies and scripts
